@@ -1,8 +1,7 @@
 # mrbshaw-Python-for-Everybody-Specialization-Certificate <br>
 # Goals
-Complete the Python for Everybody Specialization
-
-Boundaries / Scope
+Complete the Python for Everybody Specialization <br>
+# Boundaries / Scope
 Complete Course 1 Programming for Everybody (Getting Started with Python) 
 Complete Course 2 Python Data Structures
 
