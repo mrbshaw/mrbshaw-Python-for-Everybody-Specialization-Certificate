@@ -1,7 +1,5 @@
-# mrbshaw-Python-for-Everybody-Specialization-Certificate
-
-
-Goals
+# mrbshaw-Python-for-Everybody-Specialization-Certificate <br>
+# Goals
 Complete the Python for Everybody Specialization
 
 Boundaries / Scope
