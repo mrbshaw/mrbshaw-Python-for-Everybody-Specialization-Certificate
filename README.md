@@ -2,7 +2,7 @@
 # Goals
 Complete the Python for Everybody Specialization <br>
 # Boundaries / Scope
-Complete Course 1 Programming for Everybody (Getting Started with Python) 
+Complete Course 1 Programming for Everybody (Getting Started with Python)<br> 
 Complete Course 2 Python Data Structures
 # Success criteria <br>
 My own application for data retrieval and processing.
