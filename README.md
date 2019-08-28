@@ -4,8 +4,7 @@ Complete the Python for Everybody Specialization <br>
 # Boundaries / Scope
 Complete Course 1 Programming for Everybody (Getting Started with Python) 
 Complete Course 2 Python Data Structures
-
-Success criteria
+# Success criteria <br>
 My own application for data retrieval and processing.
 Weekly work log with screenshots and summaries to demonstrate activity.
 
