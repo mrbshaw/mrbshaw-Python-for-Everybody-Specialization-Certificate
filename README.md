@@ -1,15 +1,17 @@
 # Personal Project 1 - Problem Statement-Python-for-Everybody-Specialization-Certificate <br>
 # Goals
 Complete the Python for Everybody Specialization <br>
+Become more comfortable writing code. <br>
+Use knowledge to do well in COP1500. 
 # Boundaries / Scope
 Complete Course 1 Programming for Everybody (Getting Started with Python)<br> 
-Complete Course 2 Python Data Structures
+Complete Course 2 Python Data Structures<br>
 # Success criteria <br>
 My own application for data retrieval and processing. Then to use this to make an application to help track our residents at work.<br> 
 Weekly work log with screenshots and summaries to demonstrate activity.
 #  Constraints
 I will be auditing the course for free so will be able to read and view the course content but not submit projects or earn the certification.<br> 
-Spend the money for the course so I can earn certification. Monthly billing. 
+Or spend the money for the course so I can earn certification. Monthly billing. 
 # Assumptions
 If I keep up with it, I won't be overwhelmed.<br>
 The courses will be available for the duration of the semester.<br>
