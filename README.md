@@ -5,10 +5,11 @@ Complete the Python for Everybody Specialization <br>
 Complete Course 1 Programming for Everybody (Getting Started with Python)<br> 
 Complete Course 2 Python Data Structures
 # Success criteria <br>
-My own application for data retrieval and processing.
+My own application for data retrieval and processing. Then to use this to make an application to help track our residents at work.<br> 
 Weekly work log with screenshots and summaries to demonstrate activity.
 #  Constraints
-I will be auditing the course for free so will be able to read and view the course content but not submit projects or earn the certification.
+I will be auditing the course for free so will be able to read and view the course content but not submit projects or earn the certification.<br> 
+Spend the money for the course so I can earn certification. Monthly billing. 
 # Assumptions
 The courses will be available for the duration of the semester.<br>
 I have all required software.<br>
@@ -17,6 +18,7 @@ I can skip the Installing and Using Python units.<br>
 Professor - for grade<br>
 Parents - investing in my education and future success, want to make them proud<br>
 Perspective Employers - artifact will be added to my student portfolio which could help with getting a job<br>
+Current Employer - Would like me to use any skills learned that could help at worksite. 
 # Timeline
 Week:<br> 
 1.Chapter One - Why we Program? (3 hours) <br>
