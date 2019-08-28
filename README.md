@@ -1,4 +1,4 @@
-# mrbshaw-Python-for-Everybody-Specialization-Certificate <br>
+# Personal Project 1 - Problem Statement-Python-for-Everybody-Specialization-Certificate <br>
 # Goals
 Complete the Python for Everybody Specialization <br>
 # Boundaries / Scope
