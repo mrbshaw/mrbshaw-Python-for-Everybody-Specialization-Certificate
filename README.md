@@ -11,6 +11,7 @@ Weekly work log with screenshots and summaries to demonstrate activity.
 I will be auditing the course for free so will be able to read and view the course content but not submit projects or earn the certification.<br> 
 Spend the money for the course so I can earn certification. Monthly billing. 
 # Assumptions
+If I keep up with it, I won't be overwhelmed.<br>
 The courses will be available for the duration of the semester.<br>
 I have all required software.<br>
 I can skip the Installing and Using Python units.<br>
