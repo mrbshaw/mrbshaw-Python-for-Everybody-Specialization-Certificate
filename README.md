@@ -36,3 +36,4 @@ Week:<br>
 10.Chapter Ten: Tuples (2 hours)<br>
 11.Graduation and work on independent program (2 hours)<br>
 12.Complete independent program (2 hours)<br>
+#Log for personal Project
