@@ -38,4 +38,4 @@ Week:<br>
 12.Complete independent program (2 hours)<br>
 # Log for personal Project
 Week one: 9/5/19- 1 hour worked on  Welcome to the course and started reading Chapter One.<br>
-Completed the welcome to the course assignments. Learn that the course will be teaching Python version 3. Gave some insight to some changes from python 2 to 3. Such as the input isn't raw_input anymore and print now uses (""). 
+Completed the welcome to the course assignments. Learned that the course will be teaching Python version 3. Gave some insight to some changes from python 2 to 3. Such as the input isn't raw_input anymore and print now uses (""). 
