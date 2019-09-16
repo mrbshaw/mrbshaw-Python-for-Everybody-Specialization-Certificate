@@ -61,7 +61,9 @@ Started week 3 section of course.<br>
 16min video 1.4 – Writing Paragraphs of Code<br>
 Topics Variables and reserved words. Can’t use reserved words as variable names/ identifiers. Valid syntax patterns. Constructing a program for a purpose.<br>
 <br>
-Reviewed chapter 1 and took a quiz. Scored 10 out of 10. Also turned in “hello world” assignment. 
+Reviewed chapter 1 and took a quiz. Scored 10 out of 10. Also turned in “hello world” assignment.<br>
+![quiz 1 grade](https://user-images.githubusercontent.com/54412628/64974504-f0daed80-d87a-11e9-8de7-d8cbf1292af9.PNG)<br>
+
 
 
 
