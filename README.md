@@ -51,7 +51,7 @@ Video about key words that will be used later in the course along with some basi
 7min video- 1.3 Python as a Language.<br> 
 Gave a basic introduction about python. Learned that python is named after monty python and the flying circus not the snake. Because the creates wanted a language to be more fun to use than what was current for the time.<br> 
 <br>
-1 hours- Going over notes from videos and finished reading chapter 1 from course ebook.<br> 
+1 hour- Going over notes from videos and finished reading chapter 1 from course ebook.<br> 
 <br>
 **Week two: 9/14/19 - 2 hours worked on project. Stared Week 2 section of course**<br>
 Watched video: Demonstration: Using the python playground- short video about if you don’t have python downloaded on your computer, you can use python playground to run very simple code. Watched a couple other videos about installing other programs to use with python, like how we use PyCharm in class. Fininshing week 2 section of course.<br>
@@ -63,7 +63,7 @@ Topics Variables and reserved words. Can’t use reserved words as variable name
 Reviewed chapter 1 and took a quiz. Scored 10 out of 10. Also turned in “hello world” assignment. Finishing week 3 section of course.<br>
 ![quiz 1 grade](https://user-images.githubusercontent.com/54412628/64974504-f0daed80-d87a-11e9-8de7-d8cbf1292af9.PNG)<br>
 <br>
-**09/16/19- Week 4 section of course 2 hours worked on project.**
+**09/16/19- Week 4 section of course 2 hours worked on project.**<br>
 Started reading chatper 2 and taking notes.<br>
 Watched Videos posted for this week. 
 
