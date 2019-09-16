@@ -37,31 +37,30 @@ Week:<br>
 11.Graduation and work on independent program (2 hours)<br>
 12.Complete independent program (2 hours)<br>
 # Log for Personal Project
-Week one: 9/5/19- 1 hours workd on project<br>
-Worked on Welcome to the course and started reading Chapter One.<br>
+**Week one: 9/5/19- 1 hours workd on project**<br>
+-Worked on Welcome to the course and started reading Chapter One.<br>
 Completed the welcome to the course assignments. Learned that the course will be teaching Python version 3. Gave some insight to some changes from python 2 to 3. Such as the input isn't raw_input anymore and print now uses ("").<br>
 <br>
-Week one: 9/7/19 - 2 hours worked on project- Finished Week 1 section of course<br>
-Watched 11min video 1.1 - Why programing?<br> 
+**Week one: 9/7/19 - 2 hours worked on project- Finished Week 1 section of course**<br>
+-Watched 11min video 1.1 - Why programing?<br> 
 Spoke about why programing is import and to thinking about making and supporting programs that people use in their everyday life.  Talked about changing your way of think from a user to a programmer. Programs are just set of instructions tell what you want the computer to do. Learned about syntax errors that can come up when things are entered properly.<br>
 <br>
-11min video- 1.2 Hardware Overview<br> 
+-11min video- 1.2 Hardware Overview<br> 
 Video about key words that will be used later in the course along with some basic parts of computers to develop a better understanding how computers operate. Such as CPU (central processing unit), main memory, and secondary memory.<br>
 <br>
-7min video- 1.3 Python as a Language.<br> 
+-7min video- 1.3 Python as a Language.<br> 
 Gave a basic introduction about python. Learned that python is named after monty python and the flying circus not the snake. Because the creates wanted a language to be more fun to use than what was current for the time.<br> 
 <br>
-1 hours- Going over notes from videos and finished reading chapter 1 from course ebook.<br> 
+-1 hours- Going over notes from videos and finished reading chapter 1 from course ebook.<br> 
 <br>
-Week two: 9/14/19 - 2 hours worked on project. Stared Week 2 section of course<br>
-Watched video: Demonstration: Using the python playground- short video about if you don’t have python downloaded on your computer, you can use python playground to run very simple code. Watched a couple other videos about installing other programs to use with python, like how we use PyCharm in class.<br>
+**Week two: 9/14/19 - 2 hours worked on project. Stared Week 2 section of course**<br>
+-Watched video: Demonstration: Using the python playground- short video about if you don’t have python downloaded on your computer, you can use python playground to run very simple code. Watched a couple other videos about installing other programs to use with python, like how we use PyCharm in class.<br>
 <br>
-Started week 3 section of course.<br>
-<br>
+-Started week 3 section of course.<br>
 16min video 1.4 – Writing Paragraphs of Code<br>
 Topics Variables and reserved words. Can’t use reserved words as variable names/ identifiers. Valid syntax patterns. Constructing a program for a purpose.<br>
 <br>
-Reviewed chapter 1 and took a quiz. Scored 10 out of 10. Also turned in “hello world” assignment.<br>
+-Reviewed chapter 1 and took a quiz. Scored 10 out of 10. Also turned in “hello world” assignment.<br>
 ![quiz 1 grade](https://user-images.githubusercontent.com/54412628/64974504-f0daed80-d87a-11e9-8de7-d8cbf1292af9.PNG)<br>
 
 
