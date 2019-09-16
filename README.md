@@ -53,6 +53,8 @@ Gave a basic introduction about python. Learned that python is named after monty
 <br>
 1 hour- Going over notes from videos and finished reading chapter 1 from course ebook.<br> 
 <br>
+![week1done](https://user-images.githubusercontent.com/54412628/64975571-562fde00-d87d-11e9-91d5-b48f2f5d8365.PNG)<br>
+<br>
 **Week two: 9/14/19 - 2 hours worked on project. Stared Week 2 section of course**<br>
 Watched video: Demonstration: Using the python playground- short video about if you don’t have python downloaded on your computer, you can use python playground to run very simple code. Watched a couple other videos about installing other programs to use with python, like how we use PyCharm in class. Fininshing week 2 section of course.<br>
 <br>
