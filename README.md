@@ -80,6 +80,9 @@ Went over numeric expressions and how to express the classic math operations in 
 Combined everything went over to write a program. Went over how to add comments with the # command.<br>
 <br>
 Took a quiz on Chapter 2.<br>
+![quiz chapter 2](https://user-images.githubusercontent.com/54412628/66080687-9b6a3600-e534-11e9-821a-5c505fca0e51.PNG)<br>
+<br>
+
 
 
 
