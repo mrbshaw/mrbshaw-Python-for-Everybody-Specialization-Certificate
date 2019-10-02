@@ -82,7 +82,7 @@ Combined everything went over to write a program. Went over how to add comments 
 Took a quiz on Chapter 2.<br>
 ![quiz chapter 2](https://user-images.githubusercontent.com/54412628/66080687-9b6a3600-e534-11e9-821a-5c505fca0e51.PNG)<br>
 <br>
-Did assignment 2.2. Fixing a line of code that asked for users name then printed Hello plus the name entered from the prompt.<br?
+Did assignment 2.2. Fixing a line of code that asked for users name then printed Hello plus the name entered from the prompt.<br>
 <br>
 Did assignment 2.3.<br>
 Wrote a small program that prompts hours worked and your rate. Then calculates how much was earned and prints it. <br>
