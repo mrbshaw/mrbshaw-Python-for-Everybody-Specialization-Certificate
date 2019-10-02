@@ -67,13 +67,19 @@ Reviewed chapter 1 and took a quiz. Scored 10 out of 10. Also turned in “hello
 <br>
 **09/16/19- Week 4 section of course 2 hours worked on project.**<br>
 Spoke about variables and choosing how to name proper ones. Assignment statements and increments.<br>
+<br>
 Started reading chatper 2 and taking notes.<br>
+<br>
 13min video- 2.1 Expressions Part 1.<br>
 Spoke about variables and choosing how to name proper ones. Assignment statements and increments.<br>
+<br>
 20m video- 2.2 Expressions Part 2.<br>
 Went over numeric expressions and how to express the classic math operations in python. Order of evaluation when running operations and use of ().  How to convert string to integers using int() and float().  How to use type common.  The different types of numbers, integers, floating point numbers. Went over input() function.<br> 
+<br>
 7-minute video 2.3 Expression- part 3<br>
 Combined everything went over to write a program. Went over how to add comments with the # command.<br>
+<br>
+Took a quiz on Chapter 2.<br>
 
 
 
