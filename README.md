@@ -51,7 +51,7 @@ Video about key words that will be used later in the course along with some basi
 7min video- 1.3 Python as a Language.<br> 
 Gave a basic introduction about python. Learned that python is named after monty python and the flying circus not the snake. Because the creates wanted a language to be more fun to use than what was current for the time.<br> 
 <br>
-1 hour- Going over notes from videos and finished reading chapter 1 from course ebook.<br> 
+Going over notes from videos and finished reading chapter 1 from course ebook.<br> 
 <br>
 ![week1done](https://user-images.githubusercontent.com/54412628/64975571-562fde00-d87d-11e9-91d5-b48f2f5d8365.PNG)<br>
 <br>
@@ -88,8 +88,8 @@ Did assignment 2.3.<br>
 Wrote a small program that prompts hours worked and your rate. Then calculates how much was earned and prints it. <br>
 ![2 3 assignment](https://user-images.githubusercontent.com/54412628/66080820-d8362d00-e534-11e9-899c-a3ac3bf0b238.PNG)<br>
 <br>
-**09/21/19 week 5 of Course.**<br>
-1 hour Read chapter 3 on Conditional Statements and took notes.<br>
+**09/21/19 week 5 of Course. 2 hours**<br>
+Read chapter 3 on Conditional Statements and took notes.<br>
 <br>
 Watched video 3.1- Conditional Statements. 17min.<br> 
 Went over if, and statements. Also talked about else and elif. Try and except block. 
