@@ -101,6 +101,10 @@ Also talked about else and elif. Try and except block.<br>
 Took a quiz on chapter 3.<br>
 ![ch3 quiz](https://user-images.githubusercontent.com/54412628/66236684-26783700-e6c1-11e9-8e1c-7542ba3050ef.PNG)<br>
 <br>
+Did assignment 3.1 and 3.2.<br>
+![assignment 3 1](https://user-images.githubusercontent.com/54412628/66237411-021d5a00-e6c3-11e9-9ffb-8edb7f050196.PNG)<br>
+![assignment3 2](https://user-images.githubusercontent.com/54412628/66237430-0c3f5880-e6c3-11e9-8571-f36dad723c4c.PNG)<br>
+<br>
 
 
 
