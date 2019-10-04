@@ -88,6 +88,17 @@ Did assignment 2.3.<br>
 Wrote a small program that prompts hours worked and your rate. Then calculates how much was earned and prints it. <br>
 ![2 3 assignment](https://user-images.githubusercontent.com/54412628/66080820-d8362d00-e534-11e9-899c-a3ac3bf0b238.PNG)<br>
 <br>
+**09/21/19 week 5 of Course.**<br>
+1 hour Read chapter 3 on Conditional Statements and took notes.<br>
+<br>
+Watched video 3.1- Conditional Statements. 17min.<br> 
+Went over if, and statements. Also talked about else and elif. Try and except block. 
+How important indented is.
+<br>
+Watched Video 3.2- More Conditional Statements.14 min.<br> 
+Also talked about else and elif. Try and except block.<br> 
+<br>
+Took a quiz on chapter 3. 
 
 
 
