@@ -98,7 +98,9 @@ How important indented is.
 Watched Video 3.2- More Conditional Statements.14 min.<br> 
 Also talked about else and elif. Try and except block.<br> 
 <br>
-Took a quiz on chapter 3. 
+Took a quiz on chapter 3.<br>
+![ch3 quiz](https://user-images.githubusercontent.com/54412628/66236684-26783700-e6c1-11e9-8e1c-7542ba3050ef.PNG)<br>
+<br>
 
 
 
