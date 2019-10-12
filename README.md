@@ -105,6 +105,7 @@ Did assignment 3.1 and 3.2.<br>
 ![assignment 3 1](https://user-images.githubusercontent.com/54412628/66237411-021d5a00-e6c3-11e9-9ffb-8edb7f050196.PNG)<br>
 ![assignment3 2](https://user-images.githubusercontent.com/54412628/66237430-0c3f5880-e6c3-11e9-8571-f36dad723c4c.PNG)<br>
 <br>
+**09/28/19 Week of Course. 2 hours**<br>
 
 
 
