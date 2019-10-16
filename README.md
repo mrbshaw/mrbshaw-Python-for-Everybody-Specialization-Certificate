@@ -105,7 +105,14 @@ Did assignment 3.1 and 3.2.<br>
 ![assignment 3 1](https://user-images.githubusercontent.com/54412628/66237411-021d5a00-e6c3-11e9-9ffb-8edb7f050196.PNG)<br>
 ![assignment3 2](https://user-images.githubusercontent.com/54412628/66237430-0c3f5880-e6c3-11e9-8571-f36dad723c4c.PNG)<br>
 <br>
-**09/28/19 Week of Course. 2 hours**<br>
+**10/05/19 Week Six of course.**<br>
+2 hour
+Reading chapter 4 on Functions and taking Notes.<br> 
+Watched video 4.1 - Using Functions- 10 mins. <br>
+Watched video 4.2- Building Functions- 12mins<br>
+Took chapter 4 Quiz.<br> 
+Worked on Assignment 4.6- Taking last assiment we did with pay and putting the code into a funiction.<br>
+
 
 
 
