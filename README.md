@@ -118,6 +118,8 @@ Worked on Assignment 4.6- Taking last assiment we did with pay and putting the c
 reading chapter 5
 Watched video
 watched Video 
+Chatper 5 quiz
+Assignment 5.2
 
 
 
