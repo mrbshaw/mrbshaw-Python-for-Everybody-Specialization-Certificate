@@ -114,6 +114,10 @@ Took chapter 4 Quiz.<br>
 ![quiz4](https://user-images.githubusercontent.com/54412628/66964867-d34d9f00-f045-11e9-95c1-91fbd7ca5e4c.PNG)<br>
 Worked on Assignment 4.6- Taking last assiment we did with pay and putting the code into a funiction.<br>
 ![chatper 4 6 assiment](https://user-images.githubusercontent.com/54412628/66964522-e744d100-f044-11e9-80d4-8c46ab5d41b1.PNG)<br>
+**10/12/19 week of course.**<br>
+reading chapter 5
+Watched video
+watched Video 
 
 
 
