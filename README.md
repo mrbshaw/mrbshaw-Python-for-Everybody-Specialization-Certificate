@@ -121,7 +121,12 @@ Watched video<br>
 watched Video <br>
 Chatper 5 quiz<br>
 ![Quiz5](https://user-images.githubusercontent.com/54412628/67394566-6de03d80-f572-11e9-81fa-79c4c766ce83.PNG)<br>
+<br>
 Assignment 5.2<br>
+![As5 2](https://user-images.githubusercontent.com/54412628/67394775-c7e10300-f572-11e9-9ad2-3c6adc900783.PNG)<br>
+<br>
+**Passed part one of Course**
+
 
 
 
