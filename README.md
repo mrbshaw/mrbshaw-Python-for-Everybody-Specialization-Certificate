@@ -137,7 +137,7 @@ Assignment 5.2<br>
 <br>
 **Passed part one of Course**
 ![cert](https://user-images.githubusercontent.com/54412628/67396313-55bded80-f575-11e9-986b-dff14b60602c.PNG)<br>
-**Started Part two of Course- Python Data Structures**
+**Started Part two of Course- Python Data Structures**<br>
 **10/19/19- Started week 1 of course part 2. (2 hours)**<br>
 Read and took notes on chatper six.<br>
 Watched Video 6.1 on Strings.16m <br>
