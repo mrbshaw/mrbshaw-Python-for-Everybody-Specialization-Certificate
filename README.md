@@ -116,7 +116,17 @@ Took chapter 4 Quiz.<br>
 Worked on Assignment 4.6- Taking last assiment we did with pay and putting the code into a funiction.<br>
 ![chatper 4 6 assiment](https://user-images.githubusercontent.com/54412628/66964522-e744d100-f044-11e9-80d4-8c46ab5d41b1.PNG)<br>
 **10/12/19 week of course.**<br>
-reading chapter 5<br>
+reading chapter on while 5<br>
+More formally, here is the flow of execution for a while statement:<br>
+1. Evaluate the condition, yielding True or False.<br>
+2. If the condition is false, exit the while statement and continue execution at<br>
+the next statement.<br>
+3. If the condition is true, execute the body and then go back to step 1.<br>
+This type of flow is called a loop because the third step loops back around to the<br>
+top. We call each time we execute the body of the loop an iteration. For the above<br>
+loop, we would say, “It had five iterations”, which means that the body of the loop<br>
+was executed five times.<br>
+<br>
 Watched video<br>
 watched Video <br>
 Chatper 5 quiz<br>
@@ -128,13 +138,13 @@ Assignment 5.2<br>
 **Passed part one of Course**
 ![cert](https://user-images.githubusercontent.com/54412628/67396313-55bded80-f575-11e9-986b-dff14b60602c.PNG)<br>
 **Started Part two of Course- Python Data Structures**
-**10/19/19- Started week 1 of course part 2. 2 hours.**<br>
+**10/19/19- Started week 1 of course part 2. (2 hours)**<br>
 Read and took notes on chatper six.<br>
 Watched Video 6.1 on Strings.16m <br>
 Watched Video 6.2 on Manipulating Strings. 17m<br>
 Took Chapter six quiz.<br>
 Assignment 6.5 <br>
-**Week Two of Course, 10/29/19**
+**Week Two of Course, 10/29/19**<br>
 Read and took notes on chatper seven.<br>
 
 
