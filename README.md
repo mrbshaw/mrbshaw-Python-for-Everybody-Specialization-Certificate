@@ -134,6 +134,9 @@ Read and took notes on chatper six.<br>
 Watched Video 6.1 on Strings.16m <br>
 Watched Video 6.2 on Manipulating Strings. 17m<br>
 Took Chapter six quiz.<br>
+![ch6 Quiz](https://user-images.githubusercontent.com/54412628/67712691-da0bd880-f99a-11e9-86b8-136e756ed5d2.PNG)<br>
+<br>
+<br>
 Assignment 6.5 <br>
 **Week Two of Course, 10/29/19**<br>
 Read and took notes on chatper seven.<br>
