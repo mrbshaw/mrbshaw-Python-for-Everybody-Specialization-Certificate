@@ -138,6 +138,7 @@ Took Chapter six quiz.<br>
 <br>
 <br>
 Assignment 6.5 <br>
+![6 5 Addignment](https://user-images.githubusercontent.com/54412628/67713930-37a12480-f99d-11e9-9209-16adf6db0ce2.PNG)<br>
 **Week Two of Course, 10/29/19**<br>
 Read and took notes on chatper seven.<br>
 
