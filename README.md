@@ -136,7 +136,7 @@ Assignment 5.2<br>
 ![As5 2](https://user-images.githubusercontent.com/54412628/67394775-c7e10300-f572-11e9-9ad2-3c6adc900783.PNG)<br>
 <br>
 **Passed part one of Course**<br>
-![cert](https://user-images.githubusercontent.com/54412628/67396313-55bded80-f575-11e9-986b-dff14b60602c.PNG)<br>
+![cert](https://user-images.githubusercontent.com/54412628/67711638-c19abe80-f998-11e9-8fe6-84f35b7f0bf5.PNG)<br>
 **Started Part two of Course- Python Data Structures**<br>
 **10/19/19- Started week 1 of course part 2. (2 hours)**<br>
 Read and took notes on chatper six.<br>
