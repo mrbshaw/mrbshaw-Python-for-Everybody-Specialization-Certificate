@@ -144,7 +144,13 @@ Week two was review on how to use python playground. And some videos how to down
 Week Three of course<br>
 Read and took notes on chatper seven.<br>
 Video 7.1- Files.<br>
+Flat text file, and mail folders.<br>
+Using open() to read files.<br>
+Using handle to get at the file data<br>
 video 7.2-Processing Files. <br>
+Chapter 7 Quiz<br>
+![Chapter 7 Quiz](https://user-images.githubusercontent.com/54412628/68072656-6aad3480-fd5e-11e9-930a-67fcd79d9318.PNG)<br>
+7.1 Ass
 
 
 
