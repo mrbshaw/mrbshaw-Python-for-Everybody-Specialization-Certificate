@@ -41,7 +41,7 @@ Week:<br>
 Worked on Welcome to the course and started reading Chapter One.<br>
 Completed the welcome to the course assignments. Learned that the course will be teaching Python version 3. Gave some insight to some changes from python 2 to 3. Such as the input isn't raw_input anymore and print now uses ("").<br>
 <br>
-**Week one: 9/7/19 - 2 hours worked on project- Finished Week 1 section of course**<br>
+**Week one: 9/7/19 - 3 hours worked on project- Finished Week 1 section of course**<br>
 Watched 11min video 1.1 - Why programing?<br> 
 Spoke about why programing is import and to thinking about making and supporting programs that people use in their everyday life.  Talked about changing your way of think from a user to a programmer. Programs are just set of instructions tell what you want the computer to do. Learned about syntax errors that can come up when things are entered properly.<br>
 <br>
@@ -55,7 +55,7 @@ Going over notes from videos and finished reading chapter 1 from course ebook.<b
 <br>
 ![week1done](https://user-images.githubusercontent.com/54412628/64975571-562fde00-d87d-11e9-91d5-b48f2f5d8365.PNG)<br>
 <br>
-**Week two: 9/14/19 - 2 hours worked on project. Stared Week 2 section of course**<br>
+**Week two: 9/14/19 - 3 hours worked on project. Stared Week 2 section of course**<br>
 Watched video: Demonstration: Using the python playground- short video about if you don’t have python downloaded on your computer, you can use python playground to run very simple code. Watched a couple other videos about installing other programs to use with python, like how we use PyCharm in class. Fininshing week 2 section of course.<br>
 <br>
 Started week 3 section of course.<br>
@@ -65,7 +65,7 @@ Topics Variables and reserved words. Can’t use reserved words as variable name
 Reviewed chapter 1 and took a quiz. Scored 10 out of 10. Also turned in “hello world” assignment. Finishing week 3 section of course.<br>
 ![quiz 1 grade](https://user-images.githubusercontent.com/54412628/64974504-f0daed80-d87a-11e9-8de7-d8cbf1292af9.PNG)<br>
 <br>
-**09/16/19- Week 4 section of course 2 hours worked on project.**<br>
+**09/16/19- Week 4 section of course 3 hours worked on project.**<br>
 Spoke about variables and choosing how to name proper ones. Assignment statements and increments.<br>
 <br>
 Started reading chatper 2 and taking notes.<br>
@@ -88,7 +88,7 @@ Did assignment 2.3.<br>
 Wrote a small program that prompts hours worked and your rate. Then calculates how much was earned and prints it. <br>
 ![2 3 assignment](https://user-images.githubusercontent.com/54412628/66080820-d8362d00-e534-11e9-899c-a3ac3bf0b238.PNG)<br>
 <br>
-**09/21/19 week 5 of Course. 2 hours**<br>
+**09/21/19 week 5 of Course. 3 hours**<br>
 Read chapter 3 on Conditional Statements and took notes.<br>
 <br>
 Watched video 3.1- Conditional Statements. 17min.<br> 
@@ -105,7 +105,7 @@ Did assignment 3.1 and 3.2.<br>
 ![assignment 3 1](https://user-images.githubusercontent.com/54412628/66237411-021d5a00-e6c3-11e9-9ffb-8edb7f050196.PNG)<br>
 ![assignment3 2](https://user-images.githubusercontent.com/54412628/66237430-0c3f5880-e6c3-11e9-8571-f36dad723c4c.PNG)<br>
 <br>
-**10/05/19 Week Six of course.**<br>
+**10/05/19 Week Six of course.(3 hours)**<br>
 2 hour
 Reading chapter 4 on Functions and taking Notes.<br> 
 Watched video 4.1 - Using Functions- 10 mins. <br>
@@ -115,7 +115,7 @@ Took chapter 4 Quiz.<br>
 <br>
 Worked on Assignment 4.6- Taking last assiment we did with pay and putting the code into a funiction.<br>
 ![chatper 4 6 assiment](https://user-images.githubusercontent.com/54412628/66964522-e744d100-f044-11e9-80d4-8c46ab5d41b1.PNG)<br>
-**10/12/19 week of course.**<br>
+**10/12/19 week of course.- (3 hours) **<br>
 reading chapter on while statements. took Notes<br>
 <br>
 Watched video<br>
@@ -129,7 +129,7 @@ Assignment 5.2<br>
 **Passed part one of Course**<br>
 ![cert](https://user-images.githubusercontent.com/54412628/67711638-c19abe80-f998-11e9-8fe6-84f35b7f0bf5.PNG)<br>
 **Started Part two of Course- Python Data Structures**<br>
-**10/19/19- Started week 1 of course part 2. (2 hours)**<br>
+**10/19/19- Started week 1 of course part 2. (3 hours)**<br>
 Read and took notes on chatper six.<br>
 Watched Video 6.1 on Strings.16m <br>
 Watched Video 6.2 on Manipulating Strings. 17m<br>
@@ -139,7 +139,7 @@ Took Chapter six quiz.<br>
 <br>
 Assignment 6.5 <br>
 ![6 5 Addignment](https://user-images.githubusercontent.com/54412628/67713930-37a12480-f99d-11e9-9209-16adf6db0ce2.PNG)<br>
-**Week Two of Course, 10/29/19**<br>
+**Week Two of Course, 10/29/19- (3 hours)**<br>
 Week two was review on how to use python playground. And some videos how to download python.<br>
 Week Three of course<br>
 Read and took notes on chatper seven.<br>
@@ -155,6 +155,11 @@ Chapter 7 Quiz<br>
 7.1 assignment.<br>
 Opening a file and converting it to upper case.
 ![7 1](https://user-images.githubusercontent.com/54412628/68072762-6f261d00-fd5f-11e9-9c1c-ab0543f04876.PNG)<br>
+<br>
+<br>
+7.2 Assignment.<br>
+![ass 7 2](https://user-images.githubusercontent.com/54412628/68072992-3f2c4900-fd62-11e9-88bf-4fb2c9fb52f3.PNG)<br>
+
 
 
 
