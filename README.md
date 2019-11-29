@@ -189,7 +189,7 @@ Quiz on Chapter 9<br>
 ![Quiz9](https://user-images.githubusercontent.com/54412628/69890039-1eec9d00-12c2-11ea-9ced-40744b9aeb3f.PNG)<br>
 <br>
 <br>
-Chapter 9 Assigbmet<br>
+Chapter 9 Assignment<br>
 <image>
 <br>
 <br>
