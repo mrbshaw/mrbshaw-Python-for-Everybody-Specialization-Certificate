@@ -152,6 +152,9 @@ Chapter 7 Quiz<br>
 ![Chapter 7 Quiz](https://user-images.githubusercontent.com/54412628/68072656-6aad3480-fd5e-11e9-930a-67fcd79d9318.PNG)<br>
 <br>
 <br>
+**11/09/19 - (3 Hours)**<br>
+Assignments 7.1 and 7.2. <br>
+<br>
 7.1 assignment.<br>
 Opening a file and converting it to upper case.
 ![7 1](https://user-images.githubusercontent.com/54412628/68072762-6f261d00-fd5f-11e9-9c1c-ab0543f04876.PNG)<br>
