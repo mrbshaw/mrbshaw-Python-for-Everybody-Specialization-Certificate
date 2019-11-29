@@ -175,11 +175,25 @@ Took Quiz for chapter 8.<br>
 <br>
 <br>
 Assignments 8.1 and 8.2<br>
+![asmt8 4](https://user-images.githubusercontent.com/54412628/69889525-632a6e00-12bf-11ea-809e-ded50ab283b0.PNG)<br>
 ![assmt8 5](https://user-images.githubusercontent.com/54412628/69889318-480b2e80-12be-11ea-8e49-33dc96418b74.PNG)<br>
 <br>
-<br>
-**11/23/19- (3hours) Week 5 of course Chapter 9: **<br>
 
+**11/23/19- (3hours) Week 5 of course Chapter 9: Dictionaries** <br>
+Read chapter 9 and took notes.<br>
+Watched Videos<br>
+9.1- Dictionaries (9min)<br>
+9.2- Counting with Dictionaries (11min)<br>
+9.3- Dictionaries and Files (13min)<br>
+Quiz on Chapter 9<br>
+<image>
+<br>
+<br>
+Chapter 9 Assigbmet<br>
+<image>
+<br>
+<br>
+**11/30/19- week 6 of course Chapter 10** 
 
 
 
