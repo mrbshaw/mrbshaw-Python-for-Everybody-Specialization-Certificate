@@ -171,13 +171,14 @@ Watched videos<br>
 8.2 - Manipulating Lists (9m) <br>
 8.3- Lists and Strings(7m) <br>
 Took Quiz for chapter 8.<br>
-<image>
+![Quiz8](https://user-images.githubusercontent.com/54412628/69889369-87397f80-12be-11ea-89f2-1142c0778a96.PNG)<br>
 <br>
 <br>
 Assignments 8.1 and 8.2<br>
 ![assmt8 5](https://user-images.githubusercontent.com/54412628/69889318-480b2e80-12be-11ea-8e49-33dc96418b74.PNG)<br>
 <br>
 <br>
+**11/23/19- (3hours) Week 5 of course Chapter 9: **<br>
 
 
 
