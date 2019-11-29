@@ -194,6 +194,15 @@ Chapter 9 Assignment<br>
 <br>
 <br>
 **11/30/19- week 6 of course Chapter 10** 
+Read chapter 10 and took notes.<br>
+Watched Videos<br>
+10- Tuples (17min)<br>
+Chapter 10 Quiz<br>
+<image>
+  <br>
+Assignment 10.2<br>
+  <image>
+**End of course**
 
 
 
