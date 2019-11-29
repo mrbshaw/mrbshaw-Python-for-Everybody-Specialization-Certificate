@@ -190,7 +190,7 @@ Quiz on Chapter 9<br>
 <br>
 <br>
 Chapter 9 Assignment<br>
-<image>
+![image](https://user-images.githubusercontent.com/54412628/69891331-d20cc480-12c9-11ea-98ca-9f8264e4b96d.png)<br>
 <br>
 <br>
 **11/30/19- week 6 of course Chapter 10** 
