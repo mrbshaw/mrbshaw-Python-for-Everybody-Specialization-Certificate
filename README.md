@@ -174,7 +174,10 @@ Took Quiz for chapter 8.<br>
 <image>
 <br>
 <br>
-Assignments 8.1 and 8.2<br> 
+Assignments 8.1 and 8.2<br>
+![assmt8 5](https://user-images.githubusercontent.com/54412628/69889318-480b2e80-12be-11ea-8e49-33dc96418b74.PNG)<br>
+<br>
+<br>
 
 
 
