@@ -164,8 +164,8 @@ Opening a file and converting it to upper case.
 ![ass 7 2](https://user-images.githubusercontent.com/54412628/68072992-3f2c4900-fd62-11e9-88bf-4fb2c9fb52f3.PNG)<br>
 <br>
 <br>
-**11/16/19- (3hours) Week 4 of course, Chapter 8: Lists**
-Read Cahpter 8 and took notes.<br>
+**11/16/19- (3hours) Week 4 of course, Chapter 8: Lists**<br>
+Read Chapter 8 and took notes.<br>
 Watched videos<br>
 8.1- Lists (10m)<br>
 8.2 - Manipulating Lists (9m) <br>
