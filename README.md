@@ -201,8 +201,9 @@ Chapter 10 Quiz<br>
 ![Quiz10](https://user-images.githubusercontent.com/54412628/69893067-5f581500-12da-11ea-946e-70c29e64cc20.PNG)<br>
   <br>
 Assignment 10.2<br>
-  <image>
-**End of course**
+![asmt10](https://user-images.githubusercontent.com/54412628/69893494-1acf7800-12e0-11ea-9307-1b9bd6ea094e.PNG)<br>
+
+**Passed part two of Course**
 
 
 
