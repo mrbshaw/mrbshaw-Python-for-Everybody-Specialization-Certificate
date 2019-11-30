@@ -193,12 +193,12 @@ Chapter 9 Assignment<br>
 ![image](https://user-images.githubusercontent.com/54412628/69891331-d20cc480-12c9-11ea-98ca-9f8264e4b96d.png)<br>
 <br>
 <br>
-**11/30/19- week 6 of course Chapter 10** 
+**11/30/19- week 6 of course Chapter 10**<br> 
 Read chapter 10 and took notes.<br>
 Watched Videos<br>
 10- Tuples (17min)<br>
 Chapter 10 Quiz<br>
-<image>
+![Quiz10](https://user-images.githubusercontent.com/54412628/69893067-5f581500-12da-11ea-946e-70c29e64cc20.PNG)<br>
   <br>
 Assignment 10.2<br>
   <image>
